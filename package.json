@@ -1,0 +1,10 @@
+{
+  "name": "ez-harvest",
+  "version": "1.0.0",
+  "description": "Harvest data for akm sensor and pixel",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
